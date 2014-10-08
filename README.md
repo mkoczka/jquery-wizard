@@ -2,5 +2,8 @@ jquery-wizard
 =============
 
 TODO:
-- PREV/NEXT BUTTONS
-- ADD THEMES
+- builder
+- add themes
+- separate themes from scripts
+- add to bower
+- tests and code improvements
