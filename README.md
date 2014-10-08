@@ -2,7 +2,8 @@ jquery-wizard
 =============
 
 TODO:
-- builder
+- builder (npm + gulp)
+- add vendors through bower
 - add themes
 - separate themes from scripts
 - add to bower
