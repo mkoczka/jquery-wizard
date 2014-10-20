@@ -1,0 +1,22 @@
+{
+    "name": "jquery-wizard",
+    "version": "0.0.1",
+    "description": "jquery-wizard\r =============",
+    "main": "jquery.wizard.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "phantomjs tests/runner.js tests/index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkoczka/jquery-wizard.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mkoczka/jquery-wizard/issues"
+    },
+    "homepage": "https://github.com/mkoczka/jquery-wizard"
+}
